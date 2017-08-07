@@ -10,15 +10,21 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "chai": "^4.1.1",
     "ejs": "^2.5.1",
     "express": "^4.15.3",
     "express-ejs-layouts": "^2.2.0",
     "fs": "0.0.1-security",
     "handlebars": "^4.0.10",
+    "mocha": "^3.5.0",
     "mustache": "^2.3.0",
     "mustache-express": "^1.2.5",
     "nodemon": "^1.10.2",
-    "stache": "^0.1.0"
+    "really-need": "^1.9.2",
+    "sinon": "^3.0.0",
+    "sion": "0.0.1",
+    "stache": "^0.1.0",
+    "supertest": "^3.0.0"
   },
   "devDependencies": {
     "node-mock-server": "^0.17.1"
